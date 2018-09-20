@@ -48,5 +48,6 @@ public class ProblemSet1 {
 		
 		System.out.println("/// EXERCISE 5 /////////////////////////////////////////////////");
 		System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!\"");
+	
 	}
 }
